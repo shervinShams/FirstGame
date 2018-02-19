@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Lab2_Click.unity
+- path: Assets/Scene/Lab3_3Character.unity
   isLoaded: 1
   isActive: 1
